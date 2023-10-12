@@ -19,7 +19,6 @@ class IsiMateri extends Model
       'jamlat',
       'bahanajar',
        'video',
-'videoX',
     ];
 
     protected $casts = [
